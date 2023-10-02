@@ -2,7 +2,7 @@ package test;
 
 public class Test1 {
 	public static void main(String[] args) {
-		// Git COMMIT Test
+		// Git COMMIT Test_1
 		String name = "김태희";
 		int score = 75; 
 		char grade = ' ';
